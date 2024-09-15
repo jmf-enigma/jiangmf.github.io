@@ -12,7 +12,7 @@ My research interest includes contextual optimization and vedio games.
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Come to HKU OM group.
+- *2024.09*: &nbsp;🎉🎉 Get into HKU OM group.
 
 
 # 📝 Publications 
