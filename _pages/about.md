@@ -2,7 +2,7 @@
 
 I am Jiang Mingfei. A PhD student from University of Hong Kong.
 
-My research interest includes contextual optimization and vedio games. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes contextual optimization and vedio games.
 
 # 📎 Homepages
 - Personal Pages: https://jiangmingfei.github.io (updated recently🔥)
@@ -12,8 +12,8 @@ My research interest includes contextual optimization and vedio games. I have pu
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 Come to HKU OM group.
+
 
 # 📝 Publications 
 
