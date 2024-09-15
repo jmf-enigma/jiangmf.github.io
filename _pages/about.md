@@ -6,7 +6,6 @@ My research interest includes contextual optimization and vedio games.
 
 # 📎 Homepages
 - Personal Pages: https://jiangmingfei.github.io (updated recently🔥)
-- Linkedin: https://www.linkedin.com/in/jiangmingfei
 - Google Scholar: https://scholar.google.com/citations?user=_uGAIgQAAAAJ&hl=en
 - Email：jiangmf@connect.hku.hk
 
